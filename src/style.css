@@ -1,0 +1,24 @@
+body {
+    color: coral;
+    background: aquamarine;
+    text-align: center;
+}
+
+form {
+    background-color:darkcyan;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+button {
+    color: #da2929;
+    background: chartreuse;
+}
+
+input {
+    background-color: burlywood;
+}
+
+textarea {
+    background-color: burlywood;
+}
